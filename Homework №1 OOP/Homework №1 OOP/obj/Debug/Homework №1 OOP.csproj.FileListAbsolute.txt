@@ -1,0 +1,7 @@
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Homework №1 OOP\Homework №1 OOP\bin\Debug\Homework №1 OOP.exe.config
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Homework №1 OOP\Homework №1 OOP\bin\Debug\Homework №1 OOP.exe
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Homework №1 OOP\Homework №1 OOP\bin\Debug\Homework №1 OOP.pdb
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Homework №1 OOP\Homework №1 OOP\obj\Debug\Homework №1 OOP.csprojAssemblyReference.cache
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Homework №1 OOP\Homework №1 OOP\obj\Debug\Homework №1 OOP.csproj.CoreCompileInputs.cache
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Homework №1 OOP\Homework №1 OOP\obj\Debug\Homework №1 OOP.exe
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Homework №1 OOP\Homework №1 OOP\obj\Debug\Homework №1 OOP.pdb

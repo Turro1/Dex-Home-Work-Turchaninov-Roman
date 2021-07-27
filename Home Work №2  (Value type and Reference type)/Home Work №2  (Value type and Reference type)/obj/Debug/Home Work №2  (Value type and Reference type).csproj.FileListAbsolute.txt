@@ -1,0 +1,7 @@
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №2  (Value type and Reference type)\Home Work №2  (Value type and Reference type)\bin\Debug\Home Work №2  (Value type and Reference type).exe.config
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №2  (Value type and Reference type)\Home Work №2  (Value type and Reference type)\bin\Debug\Home Work №2  (Value type and Reference type).exe
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №2  (Value type and Reference type)\Home Work №2  (Value type and Reference type)\bin\Debug\Home Work №2  (Value type and Reference type).pdb
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №2  (Value type and Reference type)\Home Work №2  (Value type and Reference type)\obj\Debug\Home Work №2  (Value type and Reference type).csprojAssemblyReference.cache
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №2  (Value type and Reference type)\Home Work №2  (Value type and Reference type)\obj\Debug\Home Work №2  (Value type and Reference type).csproj.CoreCompileInputs.cache
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №2  (Value type and Reference type)\Home Work №2  (Value type and Reference type)\obj\Debug\Home Work №2  (Value type and Reference type).exe
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №2  (Value type and Reference type)\Home Work №2  (Value type and Reference type)\obj\Debug\Home Work №2  (Value type and Reference type).pdb

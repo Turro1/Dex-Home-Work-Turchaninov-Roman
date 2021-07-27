@@ -1,0 +1,7 @@
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №3 (Упаковка и распаковка)\Home Work №3 (Упаковка и распаковка)\bin\Debug\Home Work №3 (Упаковка и распаковка).exe.config
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №3 (Упаковка и распаковка)\Home Work №3 (Упаковка и распаковка)\bin\Debug\Home Work №3 (Упаковка и распаковка).exe
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №3 (Упаковка и распаковка)\Home Work №3 (Упаковка и распаковка)\bin\Debug\Home Work №3 (Упаковка и распаковка).pdb
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №3 (Упаковка и распаковка)\Home Work №3 (Упаковка и распаковка)\obj\Debug\Home Work №3 (Упаковка и распаковка).csprojAssemblyReference.cache
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №3 (Упаковка и распаковка)\Home Work №3 (Упаковка и распаковка)\obj\Debug\Home Work №3 (Упаковка и распаковка).csproj.CoreCompileInputs.cache
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №3 (Упаковка и распаковка)\Home Work №3 (Упаковка и распаковка)\obj\Debug\Home Work №3 (Упаковка и распаковка).exe
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №3 (Упаковка и распаковка)\Home Work №3 (Упаковка и распаковка)\obj\Debug\Home Work №3 (Упаковка и распаковка).pdb

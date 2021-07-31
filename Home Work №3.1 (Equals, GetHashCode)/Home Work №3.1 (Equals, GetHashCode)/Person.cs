@@ -27,7 +27,7 @@ namespace Home_Work__3._1__Equals__GetHashCode_
                 return false;
             }
             Person result = (Person)obj;
-            return result.passportNumber == passportNumber;
+            return result.placeBirth == placeBirth && result.dateBirth == dateBirth && result.fullName == fullName && result.passportNumber == passportNumber;
 
         }
         public override int GetHashCode()

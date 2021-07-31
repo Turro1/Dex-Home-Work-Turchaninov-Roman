@@ -1,0 +1,7 @@
+D:\Курсы Dex\Home Work №3.1 (Equals, GetHashCode)\Home Work №3.1 (Equals, GetHashCode)\bin\Debug\Home Work №3.1 (Equals, GetHashCode).exe.config
+D:\Курсы Dex\Home Work №3.1 (Equals, GetHashCode)\Home Work №3.1 (Equals, GetHashCode)\bin\Debug\Home Work №3.1 (Equals, GetHashCode).exe
+D:\Курсы Dex\Home Work №3.1 (Equals, GetHashCode)\Home Work №3.1 (Equals, GetHashCode)\bin\Debug\Home Work №3.1 (Equals, GetHashCode).pdb
+D:\Курсы Dex\Home Work №3.1 (Equals, GetHashCode)\Home Work №3.1 (Equals, GetHashCode)\obj\Debug\Home Work №3.1 (Equals, GetHashCode).csprojAssemblyReference.cache
+D:\Курсы Dex\Home Work №3.1 (Equals, GetHashCode)\Home Work №3.1 (Equals, GetHashCode)\obj\Debug\Home Work №3.1 (Equals, GetHashCode).csproj.CoreCompileInputs.cache
+D:\Курсы Dex\Home Work №3.1 (Equals, GetHashCode)\Home Work №3.1 (Equals, GetHashCode)\obj\Debug\Home Work №3.1 (Equals, GetHashCode).exe
+D:\Курсы Dex\Home Work №3.1 (Equals, GetHashCode)\Home Work №3.1 (Equals, GetHashCode)\obj\Debug\Home Work №3.1 (Equals, GetHashCode).pdb

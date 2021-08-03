@@ -1,0 +1,7 @@
+D:\Курсы Dex\Praktic№1\Praktic№1\obj\Debug\Praktic№1.csprojAssemblyReference.cache
+D:\Курсы Dex\Praktic№1\Praktic№1\obj\Debug\Praktic№1.csproj.CoreCompileInputs.cache
+D:\Курсы Dex\Praktic№1\Praktic№1\bin\Debug\Praktic№1.exe.config
+D:\Курсы Dex\Praktic№1\Praktic№1\bin\Debug\Praktic№1.exe
+D:\Курсы Dex\Praktic№1\Praktic№1\bin\Debug\Praktic№1.pdb
+D:\Курсы Dex\Praktic№1\Praktic№1\obj\Debug\Praktic№1.exe
+D:\Курсы Dex\Praktic№1\Praktic№1\obj\Debug\Praktic№1.pdb

@@ -1,0 +1,7 @@
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №4.1 (List, Dictionary stopwatch)\Home Work №4.1 (List, Dictionary stopwatch)\obj\Debug\Home Work №4.1 (List, Dictionary stopwatch).csprojAssemblyReference.cache
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №4.1 (List, Dictionary stopwatch)\Home Work №4.1 (List, Dictionary stopwatch)\obj\Debug\Home Work №4.1 (List, Dictionary stopwatch).csproj.CoreCompileInputs.cache
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №4.1 (List, Dictionary stopwatch)\Home Work №4.1 (List, Dictionary stopwatch)\bin\Debug\Home Work №4.1 (List, Dictionary stopwatch).exe.config
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №4.1 (List, Dictionary stopwatch)\Home Work №4.1 (List, Dictionary stopwatch)\bin\Debug\Home Work №4.1 (List, Dictionary stopwatch).exe
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №4.1 (List, Dictionary stopwatch)\Home Work №4.1 (List, Dictionary stopwatch)\bin\Debug\Home Work №4.1 (List, Dictionary stopwatch).pdb
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №4.1 (List, Dictionary stopwatch)\Home Work №4.1 (List, Dictionary stopwatch)\obj\Debug\Home Work №4.1 (List, Dictionary stopwatch).exe
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №4.1 (List, Dictionary stopwatch)\Home Work №4.1 (List, Dictionary stopwatch)\obj\Debug\Home Work №4.1 (List, Dictionary stopwatch).pdb

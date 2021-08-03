@@ -1,0 +1,7 @@
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №4.2 (модификация практики)\Home work №4.2 (модификация практики)\bin\Debug\Home work №4.2 (модификация практики).exe.config
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №4.2 (модификация практики)\Home work №4.2 (модификация практики)\bin\Debug\Home work №4.2 (модификация практики).exe
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №4.2 (модификация практики)\Home work №4.2 (модификация практики)\bin\Debug\Home work №4.2 (модификация практики).pdb
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №4.2 (модификация практики)\Home work №4.2 (модификация практики)\obj\Debug\Home work №4.2 (модификация практики).csprojAssemblyReference.cache
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №4.2 (модификация практики)\Home work №4.2 (модификация практики)\obj\Debug\Home work №4.2 (модификация практики).csproj.CoreCompileInputs.cache
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №4.2 (модификация практики)\Home work №4.2 (модификация практики)\obj\Debug\Home work №4.2 (модификация практики).exe
+D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №4.2 (модификация практики)\Home work №4.2 (модификация практики)\obj\Debug\Home work №4.2 (модификация практики).pdb

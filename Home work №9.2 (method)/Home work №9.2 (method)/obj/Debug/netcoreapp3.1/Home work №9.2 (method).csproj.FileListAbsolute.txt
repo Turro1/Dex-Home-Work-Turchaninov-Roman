@@ -1,0 +1,14 @@
+E:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №9.2 (method)\Home work №9.2 (method)\bin\Debug\netcoreapp3.1\Home work №9.2 (method).exe
+E:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №9.2 (method)\Home work №9.2 (method)\bin\Debug\netcoreapp3.1\Home work №9.2 (method).deps.json
+E:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №9.2 (method)\Home work №9.2 (method)\bin\Debug\netcoreapp3.1\Home work №9.2 (method).runtimeconfig.json
+E:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №9.2 (method)\Home work №9.2 (method)\bin\Debug\netcoreapp3.1\Home work №9.2 (method).runtimeconfig.dev.json
+E:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №9.2 (method)\Home work №9.2 (method)\bin\Debug\netcoreapp3.1\Home work №9.2 (method).dll
+E:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №9.2 (method)\Home work №9.2 (method)\bin\Debug\netcoreapp3.1\Home work №9.2 (method).pdb
+E:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №9.2 (method)\Home work №9.2 (method)\obj\Debug\netcoreapp3.1\Home work №9.2 (method).GeneratedMSBuildEditorConfig.editorconfig
+E:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №9.2 (method)\Home work №9.2 (method)\obj\Debug\netcoreapp3.1\Home work №9.2 (method).AssemblyInfoInputs.cache
+E:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №9.2 (method)\Home work №9.2 (method)\obj\Debug\netcoreapp3.1\Home work №9.2 (method).AssemblyInfo.cs
+E:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №9.2 (method)\Home work №9.2 (method)\obj\Debug\netcoreapp3.1\Home work №9.2 (method).csproj.CoreCompileInputs.cache
+E:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №9.2 (method)\Home work №9.2 (method)\obj\Debug\netcoreapp3.1\Home work №9.2 (method).dll
+E:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №9.2 (method)\Home work №9.2 (method)\obj\Debug\netcoreapp3.1\Home work №9.2 (method).pdb
+E:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №9.2 (method)\Home work №9.2 (method)\obj\Debug\netcoreapp3.1\Home work №9.2 (method).genruntimeconfig.cache
+E:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home work №9.2 (method)\Home work №9.2 (method)\obj\Debug\netcoreapp3.1\Home work №9.2 (method).csproj.AssemblyReference.cache

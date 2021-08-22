@@ -1,0 +1,1 @@
+Figure name: Triangle, Side Lenght: 10

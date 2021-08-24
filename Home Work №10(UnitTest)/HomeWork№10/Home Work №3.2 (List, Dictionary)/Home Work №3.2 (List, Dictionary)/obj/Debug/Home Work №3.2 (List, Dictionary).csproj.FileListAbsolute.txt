@@ -1,7 +1,0 @@
-D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №3.2 (List, Dictionary)\Home Work №3.2 (List, Dictionary)\bin\Debug\Home Work №3.2 (List, Dictionary).exe.config
-D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №3.2 (List, Dictionary)\Home Work №3.2 (List, Dictionary)\bin\Debug\Home Work №3.2 (List, Dictionary).exe
-D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №3.2 (List, Dictionary)\Home Work №3.2 (List, Dictionary)\bin\Debug\Home Work №3.2 (List, Dictionary).pdb
-D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №3.2 (List, Dictionary)\Home Work №3.2 (List, Dictionary)\obj\Debug\Home Work №3.2 (List, Dictionary).csprojAssemblyReference.cache
-D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №3.2 (List, Dictionary)\Home Work №3.2 (List, Dictionary)\obj\Debug\Home Work №3.2 (List, Dictionary).csproj.CoreCompileInputs.cache
-D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №3.2 (List, Dictionary)\Home Work №3.2 (List, Dictionary)\obj\Debug\Home Work №3.2 (List, Dictionary).exe
-D:\Курсы Dex\Dex-Home-Work-Turchaninov-Roman\Home Work №3.2 (List, Dictionary)\Home Work №3.2 (List, Dictionary)\obj\Debug\Home Work №3.2 (List, Dictionary).pdb
